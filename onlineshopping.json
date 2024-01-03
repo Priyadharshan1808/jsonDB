@@ -1,0 +1,164 @@
+{
+  "Registration": [
+    {
+      "id": 1,
+      "name": "priyadharshan",
+      "email": "d@gmail.com",
+      "mobile": "789465123",
+      "password": "123456",
+      "confirm password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Nila",
+      "email": "n@gmail.com",
+      "mobile": "8889657430",
+      "password": "123456",
+      "confirm password": "123456"
+    },
+    {
+      "id": 3,
+      "name": "Priya",
+      "email": "p@gmail.com",
+      "mobile": "9563147023",
+      "password": "123456",
+      "confirm password": "123456"
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "image": "http://5.imimg.com/data5/ANDROID/Default/2020/9/JP/PV/OD/48484339/product-jpeg-500x500.jpg",
+      "name": "cup cake",
+      "price": "400"
+    },
+    {
+      "id": 2,
+      "image": "./Image/Products/4.jpeg",
+      "name": "cup cake",
+      "price": "550 "
+    },
+    {
+      "id": 3,
+      "image": "./Image/Products/5.jpeg",
+      "name": "cup cake",
+      "price": "500"
+    },
+    {
+      "id": 4,
+      "image": "./Image/Products/OIP (1).jpeg",
+      "name": "cup cake",
+      "price": "899"
+    },
+    {
+      "id": 5,
+      "image": "./Image/Products/oip 2.jpeg",
+      "name": "cup cake",
+      "price": "410"
+    },
+    {
+      "id": 6,
+      "image": "./Image/Products/3.jpeg",
+      "name": "cup cake",
+      "price": "111"
+    },
+    {
+      "id": 7,
+      "image": "./Image/Products/OIP (1).jpeg",
+      "name": "cup cake",
+      "price": "400"
+    },
+    {
+      "id": 8,
+      "image": "./Image/Products/oip 2.jpeg",
+      "name": "cup cake",
+      "price": "800"
+    },
+    {
+      "id": 9,
+      "image": "./Image/Products/4.jpeg",
+      "name": "cup cake",
+      "price": "888"
+    },
+    {
+      "id": 10,
+      "image": "./Image/Products/3.jpeg",
+      "name": "cup cake",
+      "price": "555"
+    },
+    {
+      "id": 11,
+      "image": "./Image/Products/oip 2.jpeg",
+      "name": "cup cake",
+      "price": "400"
+    },
+    {
+      "id": 12,
+      "image": "./Image/Products/5.jpeg",
+      "name": "cup cake",
+      "price": "666"
+    },
+    {
+      "id": 13,
+      "image": "./Image/Products/oip 2.jpeg",
+      "name": "cup cake",
+      "price": "820"
+    },
+    {
+      "id": 14,
+      "image": "./Image/Products/5.jpeg",
+      "name": "cup cake",
+      "price": "555"
+    },
+    {
+      "id": 15,
+      "image": "./Image/Products/3.jpeg",
+      "name": "cup cake",
+      "price": "810"
+    },
+    {
+      "id": 16,
+      "image": "./Image/Products/OIP (1).jpeg",
+      "name": "cup cake",
+      "price": "750"
+    },
+    {
+      "id": 17,
+      "image": "./Image/Products/5.jpeg",
+      "name": "cup cake",
+      "price": "990"
+    },
+    {
+      "id": 18,
+      "image": "./Image/Products/oip 2.jpeg",
+      "name": "cup cake",
+      "price": "298"
+    },
+    {
+      "id": 19,
+      "image": "./Image/Products/4.jpeg",
+      "name": "cup cake",
+      "price": "350"
+    },
+    {
+      "id": 20,
+      "image": "./Image/Products/5.jpeg",
+      "name": "cup cake",
+      "price": "999"
+    }
+  ],
+  "Cart": [
+    {
+      "id": 17,
+      "image": "./Image/Products/5.jpeg",
+      "name": "cup cake",
+      "price": "990"
+    },
+    {
+      "id": 18,
+      "image": "./Image/Products/oip 2.jpeg",
+      "name": "cup cake",
+      "price": "298"
+    }
+  ]
+}
